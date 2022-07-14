@@ -1,0 +1,2 @@
+rootProject.name = "Filckr Browser"
+include ':app'
